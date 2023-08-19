@@ -28,4 +28,4 @@ This project showcases a shoe store website created using CSS. In addition to it
 
 ## `Screenshot`
 
-![StyleShoes Screenshot](image-1.png)
+![screenshot](Screenshot.png)
