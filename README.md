@@ -26,6 +26,6 @@ This project showcases a shoe store website created using CSS. In addition to it
 
 ---
 
-### Screenshot
+## `Screenshot`
 
 ![StyleShoes Screenshot](image-1.png)
